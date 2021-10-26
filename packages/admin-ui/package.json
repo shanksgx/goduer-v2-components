@@ -1,0 +1,33 @@
+{
+  "name": "admin-ui",
+  "version": "1.0.0",
+  "description": "a vue2.x element-ui components",
+  "keywords": [
+    "vue2",
+    "element-ui"
+  ],
+  "author": "goduer <526140067@qq.com>",
+  "homepage": "https://www.goduer.com",
+  "license": "ISC",
+  "main": "lib/admin-ui.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmmirror.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shanksgx/goduer-v2-components.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/shanksgx/goduer-v2-components/issues"
+  }
+}
